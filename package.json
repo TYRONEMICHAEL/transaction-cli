@@ -7,7 +7,9 @@
   },
   "devDependencies": {
     "@types/express": "^4.17.21",
-    "bun-types": "latest"
+    "@types/json2csv": "^5.0.7",
+    "bun-types": "latest",
+    "json2csv": "^6.0.0-alpha.2"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
